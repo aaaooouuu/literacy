@@ -1,4 +1,4 @@
-p {color:red;}
+<p style="この段落の文字色は赤．"</p>
 p.foo{color:green;}
  #bar{color:blue;}  
 
