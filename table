@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-    <title>hyo</title>
+    <title>たいとる</title>
   </head>
   <body> 
-    
+  <table>
+    <caption>キャプション</caption>
+    <tbody>
+    <tr><th>月</th><th>最高気温</th></tr>
+    <tr><td>1月</td><td>10</td></tr>
+    <tr><td>2月</td><td>8</td></tr>
+    </tbody>
+  </table>  
   </body>
 </html>
